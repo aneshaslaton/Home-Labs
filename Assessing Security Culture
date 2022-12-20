@@ -1,0 +1,145 @@
+Assessing Security Culture
+
+Make a copy of this document to work in, and then answer each question below the prompt. Save and submit this completed file as your Challenge deliverable.
+
+
+Step 1: Measure and Set Goals
+
+1. Using outside research, indicate the potential security risks of allowing employees to access work information on their personal devices. Identify at least three potential attacks that can be carried out.
+
+Potential Security Risks & Possible Attacks
+  - Unclear BYOD security expectations
+      /Without clear security expectations, SilverCorp’s data is at risk of various social engineering attacks. If half of the organization is using their mobile             device to access work emails, a threat actor has a greater chance at accessing company data. 
+  - Unsecured Wi-Fi connection
+      /If an employee connects to an unsecure wi-fi connection, the employee is at risk of exposing company data through possible attacks such as snooping or even          falling victim to a honeypot resulting in data leakage.
+  - Lost or Theft of Device
+      /If an employee's device is lost, stolen, or is not protected with FaceID/PIN or passcode, the data stored on the device is at risk. The potential attacker may         now have access into company systems via emails and saved passwords.
+
+2. Based on the previous scenario, what is the preferred employee behavior? (For example, if employees were downloading suspicious email attachments, the preferred behavior would be that employees only download attachments from trusted sources.)
+
+The preferred employee behavior in the above scenario would be that each employee does the following:
+  - Only open, click or download email attachments from trusted sources
+  - All employees using public Wi-Fi use a VPN
+  - All employee devices are secured with a PIN or FaceID/password.
+  - All employees report suspicious emails immediately to proper authority
+
+
+3. What methods would you use to measure how often employees are currently not behaving according to the preferred behavior? (For example, conduct a survey to see how often people download email attachments from unknown senders.)
+
+The human factor plays a large part in company security. To better understand employee behavior, a questionnaire would be created to learn the following:
+  - Do employees know how to identify a suspicious email?
+  - How often do employees change their passwords to company systems?
+  - How many employees are using 2FA/MFA?
+  - Are employees knowledgeable about VPNs and how to obtain one?
+
+I would also leverage a phishing campaign to test the initial responses to suspicious emails and reveal this likely shocking metric during the launch of the program at the company meeting. (This is with the approval of the CEO/Decision-maker to create shock and bring awareness to the importance of the Security Program.)
+
+
+4. What is the goal that you would like the organization to reach regarding this behavior? (For example, to have less than 5% of employees downloading suspicious email attachments.)
+
+Security goals for SilverCorp would be designed around people and processes and devices.
+
+Personnel Goals
+  - To have >95% employees pass a recurring quarterly security assessment.
+  - To have 100% employees secure their devices with a PIN or FaceID/passcode
+  - To have a 98% passing rate of a phishing campaign.
+
+Process Goals
+  - To have all employees understand how to identify and report suspicious emails.
+  - To have less than 3% devices to be lost or stolen.
+
+__________________________________________________________
+
+Step 2: Involve the Right People
+ 
+List at least five employees or departments that should be involved. For each person or department, describe in 2–3 sentences what their role and responsibilities will be.
+
+Departments
+  - Human Resources - To help with implementing the security program for new hires as well as address violations.
+    Human Resources will be responsible for obtaining and managing a signed security agreement for each employee.
+
+  - Chief Executive Officer/Decision-Maker - The CEO is involved to ensure the security policy aligns with business goals.
+    The CEO or Decision-Maker will be responsible for sharing the business roadmap with the Security team so they may stay aware of the possible attack methods             relevant to the business and create ways to protect.
+
+  - Managers and Department Heads - All department managers/leaders are involved to better understand how each department accesses data and what risks are relevant to     their respective teams.
+    Department Managers will be responsible for ensuring each of their team members complete the Security Assessments and obtain a passing score.
+  - Managers are responsible for reporting any security breaches that occur within their departments.
+
+__________________________________________________________
+
+Step 3: Training Plan
+
+6. How frequently will you run training? What format will it take (e.g., in-person, online, a combination of both)?
+
+Initial Policy Introduction - Company Meeting - (Virtually)
+  - All employees will receive initial training at the company “SilverCorp All-Hands Meeting:” 
+      - General expectations will be discussed for ongoing cybersecurity training and how each training will be tailored to the security of each department.
+      - Topics will include high-level details of the cybersecurity landscape and how it applies to SilverCorp.
+      - Other topics will include password security, MFA authentication, using a VPN, device updates and how to report a threat and who should be notified.
+
+Monthly Trainings - (In-person/Virtually)
+  - A monthly newsletter will be generated to keep the organization aware of relevant threats and ways to protect their devices and company data.
+      - The monthly newsletter may mention competitors or others in the industry that have experienced attacks.
+  - Launch monthly phishing campaigns to test and monitor the number of employees clicking on fake email attachments.
+      - Findings are reported to the department leadership to make them aware of how their teams are performing.
+  - Monthly training will focus on what cybersecurity is, why it is important, the role each department plays, attack methods and how to prevent an attack.
+      - Topics included content filtering, phishing, honeypots and spoofing to alert WFH employees of potential threats.
+
+Quarterly - (Virtually/Online)
+  - Zoom Calls with each department to cover relevant cybersec topics such as password security, phishing campaigns and malware awareness.
+  - Mandatory testing of security knowledge would be required as recurrent training.
+  - Hosting a quarterly meeting to share knowledge, findings and recommendations with the leadership team.
+_____________________________________________________________
+
+7. What topics will you cover in your training, and why? (This should be the bulk of the deliverable.)
+
+Training Topics
+  - What is CyberSecurity
+  - How is SilverCorp At-Risk?
+  - Remote Working Risks
+  - Methods of Attack
+  - Phishing
+  - Spoofing
+  - Malware
+  - Password Attacks
+How to protect your device and SilverCorp
+How to report a threat
+
+
+8. After you’ve run your training, how will you measure its effectiveness? 
+
+The success of the Security Training and Awareness Program will be measured by the following KPI’s: 
+
+Personnel Reporting
+  - Percentage of participants who have or haven’t completed training
+  - Training hours per employee
+  - Employee pass/fail rate on the Security Assessment
+  - Course completion rates within different departments.
+  - Employee Interviews/surveys for feedback and progress
+  - Percentage of satisfied employees and the ease of accessibility of training materials, content relevance, and the overall appeal of the content.
+
+System Reporting
+  - Number of reported suspicious events
+  - Lost/Stolen devices
+  - Results of any phishing campaigns
+  - Review employee survey feedback
+*Resource: https://terranovasecurity.com/measure-success-security-awareness-program/
+
+___________________________________________________________
+
+Bonus: Other Solutions
+
+9. List at least two other potential solutions. For each one, indicate the following:
+  - What type of control is it? Administrative, technical, or physical? 
+  - What goal does this control have? Is it preventive, deterrent, detective, corrective, or compensating?
+  - What is one advantage of each solution? 
+  - What is one disadvantage of each solution?
+
+Anti-Virus Software
+  - Anti-virus software is a preventative technical control that would minimize the risk of an employee getting a virus by clicking on an unsecure link or visiting an    unsecure website.
+  - A possible disadvantage for this type of control is that an employee may opt to not install this on their personal device.
+
+Mobile Device Management
+  - Implementing a Mobile device Management System is a corrective physical control that will allow the IT team to wipe a device if the device is lost or stolen. This    will protect the data on the device.
+  - A disadvantage to this type of control is that an attacker could access the data on the device before it is reported lost or stolen.
+
