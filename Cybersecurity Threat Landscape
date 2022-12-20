@@ -1,0 +1,133 @@
+Cybersecurity Threat Landscape -- Security 101 Challenge
+______________________________________________________________________
+
+Part I: Crowdstrike 2021 Global Threat Report
+
+For Part 1 of your homework assignment, use the Crowdstrike 2021 Global Threat Report along with independent research to answer the following questions.
+
+1. What was the dominant ransomware family that impacted the healthcare industry in 2020?
+  - Maze
+  
+2. Describe three different pandemic-related eCrime Phishing themes.
+  - Emails regarding financial assistance and government stimulus packages may contain hyperlinks to encourage the target to click the hyperlink.
+  - Attackers may have used social engineering for tailored attacks against employees working from home to encourage them to click on an attachment within an email.
+  - Attackers used hyperlinks to attract visitor traffic via online searches for individuals looking for  details on disease tracking, testing and treatment.
+
+3. Which industry was targeted with the highest number of ransomware-associated data extortion operations?
+  - Industrial and Engineering sector with 229 incidents
+  
+4. What is WICKED PANDA? Where do they originate from?
+  - Wicked Panda is a prolific cyber threat group that carries out Chinese state-sponsored espionage activity in support of or in conjunction with the Chinese Ministry     of State Security (MSS) and the People's Liberation Army (PLA). They also carry out financially motivated activity often outside of state control.
+  - Wicked Panda originated in China
+
+5. Which ransomware actor was the first observed using data extortion in a ransomware campaign?
+  - Outlaw Spider
+  
+6. What is an access broker? - Access brokers are threat actors that gain backend access to various organizations and sell this access either on criminal forums or        through private channels.
+
+7. Explain a credential-based attack.
+  - Credential based attacks occur when attackers steal credentials to gain access, bypass an organization's security measures, and steal critical data. 
+  - Attackers will use phishing for the first stage of credential-based attack. Once the attacker gains access to the credentials and passwords, they can sell it on      the dark web or use it to gain access to the organization’s network and steal data by moving laterally if the environment is unsegmented.
+  
+8. Who is credited for the heavy adoption of data extortion in ransomware campaigns?
+  - Twisted Spider with the adoption of Maze
+
+9. What is a DLS?
+  - A dedicated leak site (DLS) is usually a dedicated dark web page that posts victim names and details in an effort to prove that they have breached the target’s       system and have stolen data. Or they may post all of the data if the victim refuses to pay the ransom.
+
+10. According to Crowdstrike Falcon OverWatch, what percentage of intrusions came from eCrime intrusions in 2020? 
+  - eCrime instructions made up 79% of all attributable intrusions in 2020 by OverWatch.
+
+11. Who was the most reported criminal adversary of 2020? 
+  - Wizard Spider was the most reported criminal adversary
+
+12. Explain how SPRITE SPIDER and CARBON SPIDER impacted virtualization infrastructures.
+  - Sprite Spider and Carbon Spider deployed Linux versions on their ransomware families on ESXi hosts. SPRITE SPIDER used admin credentials to log in through the        vCenter web interface and used PyXie remote access trojan (RAT) LaZagne to harvest vCenter admin credentials stored on a web browser.
+
+13. What role does an Enabler play in an eCrime ecosystem?
+  - Enablers are a critical part of the eCrime ecosystem because they provide criminal actors with capabilities they may not otherwise have access to run malware-as-a-   service operations, specialize in delivery mechanisms or exploit networks in order to sell initial access to other
+  criminal actors.
+
+14. What are the three parts of the eCrime ecosystem that CrowdStrike highlighted in their report?
+  - Services, Distribution and Monetization
+
+15. What is the name of the malicious code used to exploit a vulnerability in the SolarWinds Orion IT management software?
+  -Sunburst
+______________________________________________________________________
+
+Part 2: Akamai Security Year in Review 2020
+In this part, you should primarily use the Akamai Security Year in Review 2020 and Akamai State of the Internet / Security along with independent research to answer the following questions.
+
+1. What was the most vulnerable and targeted element of the gaming industry between October 2019 to September 2020? 
+  - The Most vulnerable and targeted element of the gaming industry is its players.
+
+2. From October 2019 to September 2020, which month did the financial services industry have the most daily web application attacks? 
+  - December of 2019
+
+3. What percentage of phishing kits monitored by Akamai were active for only 20 days or less? 
+  - 60% were active for only 20 days or less
+
+4. What is credential stuffing? 
+  - A brute force method where attackers use a list of known compromised user credentials to breach into other websites.
+
+5. Approximately how many of the gaming industry players have experienced their accounts being compromised?  How many of them are worried about it?
+  - More than half of the frequent players said they’ve had their accounts compromised but only one-fifth of them were worried about it.
+
+6. What is a three-question quiz phishing attack?
+  - The three-question quiz phishing attack relies on users filling out quizzes in exchange for a “prize” which typically results in stolen personal information.
+
+7. Explain how Prolexic Routed defends organizations against DDoS attacks.
+  - Prolexic Routed defends organizations against DDoS attacks by redirecting network traffic through Akamai scrubbing centers and only allowing the clean traffic        forward. SOC experts then tailor controls to detect and stop attacks instantly and conduct a live analysis of the remaining traffic to determine further mitigation     as needed.
+
+8. What day between October 2019 to September 2020 had the highest Daily Logins associated with Daily Credential Abuse Attempts? 
+  - August 17, 2020
+
+9. What day between October 2019 to September 2020 had the highest gaming attacks associated with Daily Web Application Attacks? 
+  - July 11, 2020
+
+10. What day between October 2019 to September 2020 had the highest media attacks associated with Daily Web Application Attacks?
+  - August 20, 2020
+
+______________________________________________________________________
+
+Part 3: Verizon Data Breaches Investigation Report
+In this part, use the Verizon Data Breaches Investigation Report plus independent research to answer the following questions.
+
+1. What is the difference between an incident and a breach? 
+  - An incident is a security event when integrity, confidentiality or availability has been compromised. Whereas a breach is an incident that results in unauthorized    access to data, apps, devices or networks.
+
+2. What percentage of breaches were perpetrated by outside actors? What percentage were perpetrated by internal actors? 
+  - Globally, 70% of breaches were perpetrated by outside actors.
+    (Source: https://www.verizon.com/about/news/verizon-2020-data-breach-investigations-report)
+  - 25% of data branches are caused by insider threats.
+  (Source: https://cloudnine.com/ediscoverydaily/electronic-discovery/80-percent-hacking-related-breaches-related-password-issues-cybersecurity-trends/)
+
+3. What percentage of breaches were perpetrated by organized crime? 
+  - 55% of data breaches are committed by organized criminal groups.
+    (Source: https://today.tamu.edu/2021/05/13/heres-how-much-your-personal-information-is-worth-to-cybercriminals-and-what-they-do-with-                                   it/#:~:text=Approximately%2086%25%20of%20data%20breaches,Verizon's%20annual%20data%20breach%20report.)
+
+4. What percentage of breaches were financially motivated? 
+  - 71% of breaches are financially motivated.
+    (Source: https://www.varonis.com/blog/data-breach-statistics)
+
+5. Define the following (additional research may be required outside of the report): 
+  - Denial of service: A Denial-of-Service (DoS) attack is an attack meant to shut down a machine or network, making it inaccessible to its intended users. DoS attacks     accomplish this by flooding the target with traffic, or sending it information that triggers a crash.
+    (Source: https://www.paloaltonetworks.com/cyberpedia/what-is-a-denial-of-service-attack-dos) 
+
+  - Command control: Command and Control' is the exercise of authority and direction by a properly designated commander over assigned and attached forces in the             accomplishment of the mission
+    (Source: https://csrc.nist.gov/glossary/term/command_and_control)
+
+  - Backdoor:any method by which authorized and unauthorized users are able to get around normal security measures and gain high level user access on a computer           system, network or software app.
+    (Source: https://www.malwarebytes.com/backdoor)
+
+  - Keylogger: a type of surveillance technology that monitors and records each keystroke of a computer or smartphone.
+    (Source:https://www.techtarget.com/searchsecurity/definition/keylogger#:~:text=A%20keylogger%2C%20sometimes%20called%20a,Apple%20iPhone%20and%20Android%20devices.)
+
+6. What remains one of the most sought-after data types for hackers? 
+  - Credentials are one of the most sought-after data types and are the fastest data types to be compromised in 85% of phishing attacks.
+    (Source: https://reciprocity.com/blog/compromised-credentials-could-put-your-business-at-                                         risk/#:~:text=Credentials%20remain%20one%20of%20the,85%20percent%20of%20phishing%20attacks.)
+
+7. What was the percentage of breaches involving phishing?
+  - 25% of all data breaches involve phishing
+  (Source: https://expertinsights.com/insights/50-phishing-stats-you-should-know/)
+
