@@ -1,10 +1,8 @@
-![This is an image](https://d2y9h8w1ydnujs.cloudfront.net/uploads/thumbnails/labs/68eee056-670d-4d4a-abd4-644d2dae10f1.png)
-
-## Lab Summary: Categorizing Phishing Emails
+## Lab Title: Categorizing Phishing Emails
 
 Link to Blue Team Level 1 certificate of completion: https://elearning.securityblue.team/public/lab-certificate/68eee056-670d-4d4a-abd4-644d2dae10f1
 
-**Objective:**
+**Lab Objective:**
 
 To demonstrate my ability to accurately categorize phishing emails based on key indicators such as context, intent, and content.
 
@@ -16,10 +14,19 @@ To demonstrate my ability to accurately categorize phishing emails based on key 
 * **Content Evaluation:** Carefully examined the email content for suspicious elements, such as urgent requests, threats, or unusual language.
 * **Phishing Email Classification:** Correctly categorized phishing emails into specific types based on their characteristics and tactics.
 
-**Outcomes:**
+**Learning Outcomes:**
 
 * **Enhanced Phishing Detection:** Developed a stronger ability to recognize and identify phishing emails.
 * **Improved Security Awareness:** Increased understanding of common phishing tactics and techniques.
 * **Enhanced Incident Response:** Gained valuable experience in handling phishing incidents and taking appropriate actions.
 
 By successfully completing this lab, I have demonstrated my proficiency in categorizing phishing emails and my commitment to protecting against cyber threats.
+
+**Additional Insights:**
+
+While completing the Categorizing Phishing Emails lab, I discovered that as a Cybersecurity Analyst, it is critical to be able to recognize and analyze various types of phishing emails. This experience highlighted the importance of contextual analysis and steps required to protect against common phishing tactics and techniques.
+
+Additionally, I found that not all phishing email are the same, but there are ways to identify them such as analyzing the subject and body for typos and malicious hyerlinks. This insight will be valuable in future cybersecurity endeavors as it can help me protect an organization from phishing attacks. 
+
+
+
